@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ shubhod - Watch TV Shows Online</title>
+    <title>Disney+ hotstar - Watch TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">TV</a></li>
+            <li class="nav-items"><a href="#">shubhod</a></li>
             <li class="nav-items"><a href="#">CINEMAS</a></li>
             <li class="nav-items"><a href="#">   good</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
